@@ -2,7 +2,7 @@
 
 Sou um estudante autodidata de programação.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjr1440&theme=transparent&hideprogress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjr1440&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens
 
