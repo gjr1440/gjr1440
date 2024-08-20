@@ -2,6 +2,8 @@
 
 Sou um estudante autodidata de programação.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjr1440&theme=transparent&hideprogress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Linguagens
 
 <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50" title="C#"> <img src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" width="50" title="Lua">
