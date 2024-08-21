@@ -2,7 +2,7 @@
 
 Sou um estudante autodidata de programação.
 
-✝ Provérbios 4:7 A sabedoria é a coisa principal; adquire pois a sabedoria, emprega tudo o que possuis na aquisição de entendimento. ✝
+✝ João 14:6 Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim. ✝
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjr1440&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
