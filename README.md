@@ -2,6 +2,8 @@
 
 Sou um estudante autodidata de programação.
 
+✝ Provérbios 4:7 A sabedoria é a coisa principal; adquire pois a sabedoria, emprega tudo o que possuis na aquisição de entendimento.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjr1440&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens
